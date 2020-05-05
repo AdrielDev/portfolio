@@ -3,7 +3,7 @@ body p, body th, body td {
 }
 
 #header {
-    background-image: url(thomas-lardeau-TrU31T1wrnY-unsplash.jpg);
+    background-image: url(imagens/thomas-lardeau-TrU31T1wrnY-unsplash.jpg);
     height: 100vh;
     background-position: center;
     background-attachment: fixed;
@@ -56,6 +56,7 @@ body p, body th, body td {
 
 #footerConteudo {
     padding-top: 10px;
+    
 }
 
 #contatoPadd {
