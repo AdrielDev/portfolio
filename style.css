@@ -1,0 +1,70 @@
+body p, body th, body td {
+    font-size: 17px;
+}
+
+#header {
+    background-image: url(thomas-lardeau-TrU31T1wrnY-unsplash.jpg);
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#nav {
+    background-color: #000000aa;
+}
+
+#infoCenter {
+    color: white;
+}
+
+#infoCenter img{
+    width: 110px;
+    margin-bottom: 30px;
+}
+
+#redesSociais {
+    margin-top: 10px;
+}
+
+#inicio {
+    padding-top: 30px;
+}
+
+#titulo {
+    margin: 80px 0 19px;
+    color: #0a2445;
+}
+
+#tituloPort {
+    margin: 30px 0;
+    padding: 40px;
+}
+
+.card-img-top {
+    border-bottom: black 1px solid;
+}
+
+#skill{
+    padding: 20px 0px;
+    margin: 0 10px 4px;
+    border-radius: 15px;
+}
+
+#skill p{
+    margin: 0px;
+}
+
+#footerConteudo {
+    padding-top: 10px;
+}
+
+#contatoPadd {
+    padding-bottom: 8px;
+    border-bottom: white 1px solid;
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+
+#endereco p{
+    font-size: 15px;
+}
